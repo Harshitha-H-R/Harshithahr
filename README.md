@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am EEE student!<br>
+I am Electrical and Electronics Engineering undergraduate with a strong foundation in C programming and Data Structures and Algorithms, along with basic knowledge of Java. Currently developing proficiency in Python with an emphasis on Artificial Intelligence and Data Science. Engaged in a Mars Rover project and active in hackathons. Interested in the application of intelligent and data-driven systems in Electrical Engineering. <br>
 
 
 ## 🌐 Socials:
